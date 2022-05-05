@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.138" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_sync_24.xml" value="0.1" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/nav_header.xml" value="0.253125" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
