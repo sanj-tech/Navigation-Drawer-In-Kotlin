@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.navigationdrawerwithkotlin.app-mergeDebugResources-26:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.navigationdrawerwithkotlin.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.navigationdrawerwithkotlin.app-mergeDebugResources-26:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.example.navigationdrawerwithkotlin.app-main-29:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerwithkotlin.app-mergeDebugResources-26:/layout/activity_main.xml",
+        "source": "com.example.navigationdrawerwithkotlin.app-main-29:/layout/activity_main.xml"
+    }
+]
